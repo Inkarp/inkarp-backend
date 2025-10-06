@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/webinar-register.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
